@@ -53,7 +53,7 @@ and enjoy making a smooth experience for the end-user.
         alt="React"
       />
       <br /><strong>React.js</strong>
-
+      </td> 
     <td align="center" height="108" width="108">
       <img
         src="https://avatars.githubusercontent.com/u/67109815"
@@ -63,7 +63,6 @@ and enjoy making a smooth experience for the end-user.
       />
       <br /><strong>TailwindCSS</strong>
   </td> 
-
   </tr>
 </table>
 
@@ -89,6 +88,14 @@ and enjoy making a smooth experience for the end-user.
       />
       <br /><strong>Npm</strong>
     </td>
-
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
   </tr>
 </table>
